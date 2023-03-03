@@ -1,0 +1,17 @@
+[$Version]
+update_info=webenginepart.upd:MoveNonPasswordStorableSites
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA8AAAAPNAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAMAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABlAHgAdAByAGEAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAAAAAAHgBsAG8AYwBhAHQAaQBvAG4AVABvAG8AbABCAGEAcgEAAAEo/////wAAAAAAAAAAAAAAAgAAAAIAAAAeAGIAbwBvAGsAbQBhAHIAawBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAWAGgAdABtAGwAVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+StatusBar=Enabled
+ToolBarsMovable=Disabled
+Virtual-1 Height 1920x1080 Virtual-1=1019
+Virtual-1 Width 1920x1080 Virtual-1=960
+
+[Notification Messages]
+Complete Full Screen Warning=false
+
+[Undo]
+Number of Closed Windows=2

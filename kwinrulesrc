@@ -1,0 +1,110 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=Application settings for org.kde.discover
+desktops=aac05f17-830b-4942-a9c8-0b1abd423cd0
+desktopsrule=3
+opacityactive=97
+opacityinactive=88
+wmclass=plasma-discover org.kde.discover
+wmclasscomplete=true
+wmclassmatch=1
+
+[2]
+Description=Application settings for libreoffice-startcenter
+desktops=7f62d262-b204-4872-9a45-fc26568d352b
+desktopsrule=3
+opacityactive=97
+opacityinactive=80
+wmclass=soffice.bin libreoffice-startcenter
+wmclasscomplete=true
+wmclassmatch=1
+
+[3]
+Description=Application settings for org.kde.dolphin
+desktops=fdaff8ca-76b8-4a37-a926-9e795fdd5813
+desktopsrule=3
+opacityactive=97
+opacityinactive=80
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[4]
+Description=Application settings for org.kde.konsole
+desktops=b03f744e-0e0d-45c6-b089-b0ec8b0b2445
+desktopsrule=3
+opacityactive=97
+opacityinactive=80
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[40ff1012-3684-4313-bcd4-fbdf7bc91a6a]
+Description=Application settings for org.kde.dolphin
+desktops=fdaff8ca-76b8-4a37-a926-9e795fdd5813
+desktopsrule=3
+wmclass=dolphin org.kde.dolphin
+wmclasscomplete=true
+wmclassmatch=1
+
+[5]
+Description=Application settings for systemsettings
+desktops=aac05f17-830b-4942-a9c8-0b1abd423cd0
+desktopsrule=3
+opacityactive=97
+opacityinactive=80
+wmclass=systemsettings
+wmclassmatch=1
+
+[6]
+Description=Opacity Control
+opacityactive=97
+opacityactiverule=2
+opacityinactive=80
+opacityinactiverule=2
+types=1
+
+[60da46ae-5aec-4860-be66-0fb0bcd22e0a]
+Description=Application settings for org.kde.discover
+desktops=aac05f17-830b-4942-a9c8-0b1abd423cd0
+desktopsrule=3
+wmclass=plasma-discover org.kde.discover
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=6
+rules=1,2,3,4,5,6
+
+[aa847c54-fe65-4ada-8062-c0b32c6bf7ec]
+Description=Application settings for org.kde.konsole
+desktops=b03f744e-0e0d-45c6-b089-b0ec8b0b2445
+desktopsrule=3
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[ca77f4f6-2489-47f4-8d5c-a15d439970eb]
+Description=Application settings for systemsettings
+desktops=aac05f17-830b-4942-a9c8-0b1abd423cd0
+desktopsrule=3
+wmclass=systemsettings
+wmclassmatch=1
+
+[ce9255b0-d28d-4bfc-9d46-03fe84339a95]
+Description=Application settings for libreoffice-startcenter
+desktops=7f62d262-b204-4872-9a45-fc26568d352b
+desktopsrule=3
+wmclass=soffice.bin libreoffice-startcenter
+wmclasscomplete=true
+wmclassmatch=1
+
+[f69ed76c-ecb5-4bb1-b224-65813c39daba]
+Description=Opacity Control
+opacityactive=97
+opacityactiverule=2
+opacityinactive=88
+opacityinactiverule=2
+types=1

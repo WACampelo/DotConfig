@@ -1,0 +1,4 @@
+[Style]
+MenuItemDrawStrongFocus=false
+ScrollBarAddLineButtons=1
+ScrollBarSubLineButtons=1

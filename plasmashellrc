@@ -1,0 +1,41 @@
+[KFileDialog Settings]
+Recent Files[$e]=product_logo_256.png,file:///var/lib/flatpak/app/com.brave.Browser/current/4d9683c4fa7ead3062d03fe9f59a94bffb9a35e4b60360461e0fa0a942ddd163/files/brave/product_logo_256.png
+Recent URLs[$e]=file:///var/lib/flatpak/app/com.brave.Browser/current/4d9683c4fa7ead3062d03fe9f59a94bffb9a35e4b60360461e0fa0a942ddd163/files/brave/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+Virtual-1 Height 1920x1080 Virtual-1=529
+Virtual-1 Width 1920x1080 Virtual-1=437
+
+[PlasmaViews][Panel 2]
+alignment=132
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=1920
+minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1920]
+maxLength=1920
+minLength=1920
+
+[PlasmaViews][Panel 34]
+alignment=132
+floating=1
+panelVisibility=1
+
+[PlasmaViews][Panel 34][Defaults]
+maxLength=962
+minLength=962
+thickness=40
+
+[PlasmaViews][Panel 34][Vertical1080]
+maxLength=962
+minLength=962
+
+[ScreenConnectors]
+0=Virtual-1
+1=Virtual-2
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js

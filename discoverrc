@@ -1,0 +1,10 @@
+[FlatpakSources]
+Sources=flathub
+
+[Window]
+<<<<<<< HEAD
+geometry=0,0,1447,948
+=======
+geometry=0,0,1477,948
+>>>>>>> 6e7d217 (Included konsave on saved configs)
+visibility=2
